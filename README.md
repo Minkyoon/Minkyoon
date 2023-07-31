@@ -3,8 +3,15 @@
 ## major: digital analytics
 ## data scientist
 
+대학원 진행연구
+______
+### 크론질병  classification model
+설명:크론질병 내시경 이미지를 이용하여 분류 모델을 구현, resnet 50 vggnet 기본적인 모델을 사용했고, 기본적으로 resnet50사용
+추가적으로 bag단위로 묶는 resnet50도 시도, 논문화를 위한 gradcam 같은 작업 진행
 
-진행해본 프로젝트
+
+
+학부 진행해본 프로젝트
 ----
 ### 심장질환 예측 모델
 설명: kaggle에서. heart disease데이터를 사용하였습니다. 성별 나이 심전도 혈압 등이 있습니다. 
