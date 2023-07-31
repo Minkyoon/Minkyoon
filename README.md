@@ -3,7 +3,7 @@
 ## major: digital analytics
 ## data scientist
 
-대학원 진행연구
+### 대학원 진행연구
 ______
 ### 크론질병  classification model
 설명:크론질병 내시경 이미지를 이용하여 분류 모델을 구현, resnet 50 vggnet 기본적인 모델을 사용했고, 기본적으로 resnet50사용
