@@ -9,9 +9,8 @@ ______
 설명: x-ray 합성데이터를 판별할 수 있는 알고리즘 구현, 직접 dcgan, ddpm 으로 이미지 합성을 시행, ddpm 특성상 노이즈를 주고 다시 빼는 학습을 통해 이미지 생성, 이 특성을 활요하여 통계적 특성을 사용한 starex 알고리즘 개발, resnet50 기존 분류모델보다, 합성 판변 분야에서 computation cost가 극도로 절약되고, 더 우수한 성을 보임
 
 
-
 ### 크론질병  attention based multiple instance learning
-설명:내시경 이미지 특성상, 환자당 이미지가 20~30장 이미지가 나옴, 각각 환자마다 이미지 개수가 다르고 라벨도 bag 단위의 라벨만 있꼬 개별 이미지에 대한 라벨링이 안된 weakly supervised 상태에서, attention based multiple instance learning 으로 연구진행
+설명:내시경 이미지 특성상, 환자당 이미지가 20~30장 이미지가 나옴, 각각 환자마다 이미지 개수가 다르고 라벨도 bag 단위의 라벨만 있고 개별 이미지에 대한 라벨링이 안된 weakly supervised 상태에서, attention based multiple instance learning 으로 연구진행
 
 ### 크론질병  classification model
 설명:크론질병 내시경 이미지를 이용하여 분류 모델을 구현, resnet 50 vggnet 기본적인 모델을 사용했고, 기본적으로 resnet50사용
