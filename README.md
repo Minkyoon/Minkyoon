@@ -12,11 +12,11 @@ I am a Data Scientist with a major in Digital Analytics from Yonsei University. 
 
 ### Crohn's Disease Attention-Based Multiple Instance Learning
 - **Description**: Researched attention-based multiple instance learning in a weakly supervised setting due to the variable image count and bag-level labels in endoscopic images.
-- **Technologies Used**: Attention-based learning models
+- **Technologies Used**: Attention-based multiple instance learning models
 
 ### Crohn's Disease Classification Model
 - **Description**: Implemented a classification model for Crohn's disease using endoscopic images with ResNet50 and VGGNet, and explored bag-level ResNet50 models and Grad-CAM visualization.
-- **Technologies Used**: ResNet50, VGGNet, Grad-CAM
+- **Technologies Used**: ResNet50, VIT, Grad-CAM
 
 ### Image Clustering and Classification
 - **Description**: Performed clustering on endoscopic images using k-means and other algorithms, followed by classification within clusters to identify noisy images.
@@ -30,7 +30,7 @@ I am a Data Scientist with a major in Digital Analytics from Yonsei University. 
 
 ### Skin Disease Recognition iPhone Application
 - **Description**: Built a CNN model for a hackathon project to recognize seven types of skin cancer, followed by the development of an iPhone application with Swift, Django, and MySQL.
-- **Technologies Used**: CNN, Swift, Django, MySQL
+- **Technologies Used**: CNN,  Django, 
 
 ### Stock Price Prediction Model
 - **Description**: Predicted future stock prices using CNN on Bitcoin data, with custom data visualization and labeling for trend prediction.
@@ -41,7 +41,7 @@ I am a Data Scientist with a major in Digital Analytics from Yonsei University. 
 - **Technologies Used**: Deep Learning, Multiple Linear Regression, Random Forest, XGBoost
 
 ## Skills
-- Programming Languages: Python, R
+- Programming Languages: Python, R, JAVA, C
 - Frameworks: TensorFlow, PyTorch
 - Tools: Git, Docker, Jupyter
 - Data Analysis and Machine Learning
@@ -51,8 +51,8 @@ I am a Data Scientist with a major in Digital Analytics from Yonsei University. 
 - Double Major in Economics & Finance and Human-Centric AI, Sangmyung University
 
 ## Contact
-Let's connect! You can reach me on [LinkedIn](YourLinkedInProfile) or via [email](mailto:YourEmail).
+Let's connect! You can reach me on [email](minkyoonyoo@naver.com).
 
 ## Looking to Collaborate?
-I am always open to collaborating on projects or discussing new ideas. If you're interested in working together, please check out my [contribution guidelines](LinkToContributionGuidelines) or contact me directly.
+I am always open to collaborating on projects or discussing new ideas. If you're interested in working together, contact me directly.
 
