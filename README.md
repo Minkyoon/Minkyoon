@@ -1,58 +1,57 @@
-# Welcome to My GitHub Page!
+# Hi there! 👋 I'm Min Kyoon Yoo
 
-## About Me
-I am a Data Scientist with a major in Digital Analytics from Yonsei University. My academic and professional journey has been dedicated to the development and implementation of advanced AI algorithms, particularly in the field of medical image analysis and financial forecasting.
+## 🧑‍🔬 About Me
+I'm a **Master's student at Yonsei University**, specializing in **Federated Learning, Incremental Learning, and Multi-Modal Models**. My research focuses on **privacy-preserving AI, continual learning, and decentralized learning** with applications in **healthcare and edge AI**. Passionate about developing **adaptive and resource-efficient AI solutions**, I strive to bridge the gap between theoretical advancements and real-world applications.
 
-## Graduate Research Projects
+- 🎓 **M.S. in Digital Analytics**, Yonsei University (2023 ~ 2025)  
+  - Thesis: "ETF-Enhanced Pseudo Feature Approach for Federated Class-Incremental Learning Without Rehearsal Memory"
+  - Advisor: **Prof. Yu Rang Park**
+- 🎓 **B.S. in Economics & Human-Centered Artificial Intelligence**, Sangmyung University (2017 ~ 2023)  
+  - Thesis: "Development of a Web Application for Skin Cancer Classification Using a CNN Model"
 
-### Synthetic Data Detection Algorithm
-- **Description**: Developed an algorithm to discern synthetic X-ray data, utilizing DCGAN and DDPM for image synthesis and creating the STAREX algorithm based on statistical characteristics.
-- **Technologies Used**: DCGAN, DDPM, STAREX algorithm, ResNet50
-- **Results**: Outperformed traditional classification models in synthetic detection with significantly reduced computational costs.
+## 🔬 Research Interests
+- **Federated Learning & Decentralized AI** 🤖  
+- **Incremental & Continual Learning** 🔁  
+- **Multi-Modal AI & Weakly Supervised Learning** 🏥📊  
+- **Model Compression & On-Device AI** 📱  
+- **Privacy-Preserving Machine Learning** 🔐
 
-### Crohn's Disease Attention-Based Multiple Instance Learning
-- **Description**: Researched attention-based multiple instance learning in a weakly supervised setting due to the variable image count and bag-level labels in endoscopic images.
-- **Technologies Used**: Attention-based multiple instance learning models
+## 📜 Publications & Research
+### 🏆 Selected Publications
+- **Federated Class Incremental Learning: A Pseudo Feature-Based Approach Without Exemplars**  
+  - *ACCV 2024 (Oral, Top 5.6%)*  
+  - Proposed the first pseudo-feature-based FCIL framework, achieving SOTA results without exemplars.
+- **Multimodal Weakly Supervised Multiple Instance Learning for Pediatric Crohn’s Disease Prognosis**  
+  - *Pacific Symposium on Biocomputing (PSB 2024)*  
+  - Developed a novel weakly supervised learning model for integrating **endoscopic, MRE, and clinical data**.
+- **FedDAP: Federated Learning for Detecting and Defending Against Poisoning Attacks**  
+  - *IEEE Transactions on Cybernetics (Under Review)*  
+  - Introduced a decentralized federated learning framework using **differentially private GANs**.
 
-### Crohn's Disease Classification Model
-- **Description**: Implemented a classification model for Crohn's disease using endoscopic images with ResNet50 and VGGNet, and explored bag-level ResNet50 models and Grad-CAM visualization.
-- **Technologies Used**: ResNet50, VIT, Grad-CAM
+### 🔬 Projects
+- **Development of Digital Therapeutics (DTx) for Autism Spectrum Disorder**  
+  - **Role**: Emotion prediction using wearable data, leveraging statistical & deep learning features.
+- **Prognosis Prediction for Crohn’s Disease Using Multi-Modal AI**  
+  - **Role**: Developed a weakly supervised learning pipeline integrating **MRE, endoscopic, and lab data**.
+- **Synthetic Data Detection for Healthcare Security**  
+  - **Role**: Designed a GAN-based detection model to identify synthetic **chest X-ray images**.
 
-### Image Clustering and Classification
-- **Description**: Performed clustering on endoscopic images using k-means and other algorithms, followed by classification within clusters to identify noisy images.
-- **Technologies Used**: ResNet50, k-means clustering
+## 🏅 Awards & Honors
+- **SKT - Choi Kyung-Joo Hope Scholarship** 🏆 (*2023 - 2024*)  
+  - Recognized as a **promising talent in AI research**.
+- **2nd Place - Yonsei Digital Healthcare Cybersecurity Competition** 🥈 (*2024*)  
+  - Developed an **ETF Classifier-based model** for **defending against medical data poisoning attacks**.
 
-## Undergraduate Projects
+## 💻 Tech Stack & Skills
+- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn
+- **Multi-Modal AI**: Weakly Supervised Learning, Transformers, Vision-Language Models
+- **AI for Healthcare**: Medical Imaging, Wearable Data Analysis
+- **Software & Tools**: Docker, Git, Linux, Jupyter, OpenCV
 
-### Heart Disease Prediction Model
-- **Description**: Developed a heart disease classification model using Kaggle data, experimenting with various algorithms and parameters, and validated with a confusion matrix.
-- **Technologies Used**: K-NN, Logistic Regression, SVC, Gaussian Naive Bayes, Decision Trees
+## 📫 Connect with Me
+- 📧 Email: [minkyoon_da@yonsei.ac.kr](mailto:minkyoon_da@yonsei.ac.kr)
 
-### Skin Disease Recognition iPhone Application
-- **Description**: Built a CNN model for a hackathon project to recognize seven types of skin cancer, followed by the development of an iPhone application with Swift, Django, and MySQL.
-- **Technologies Used**: CNN,  Django, 
+---
+### 🚀 Always open to collaboration in Federated Learning, Incremental Learning, and AI for Healthcare! Feel free to reach out!
 
-### Stock Price Prediction Model
-- **Description**: Predicted future stock prices using CNN on Bitcoin data, with custom data visualization and labeling for trend prediction.
-- **Technologies Used**: CNN, custom data processing
-
-### Monthly Population Movement Prediction
-- **Description**: Predicted population movement using KT's network data, employing various algorithms and focusing on data preprocessing and postprocessing to improve RMSE.
-- **Technologies Used**: Deep Learning, Multiple Linear Regression, Random Forest, XGBoost
-
-## Skills
-- Programming Languages: Python, R, JAVA, C
-- Frameworks: TensorFlow, PyTorch
-- Tools: Git, Docker, Jupyter
-- Data Analysis and Machine Learning
-
-## Education
-- Master's in Digital Analytics, Yonsei University
-- Double Major in Economics & Finance and Human-Centric AI, Sangmyung University
-
-## Contact
-Let's connect! You can reach me on [email](minkyoonyoo@naver.com).
-
-## Looking to Collaborate?
-I am always open to collaborating on projects or discussing new ideas. If you're interested in working together, contact me directly.
 
